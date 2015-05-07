@@ -2,3 +2,4 @@ This is an file for testing
 
 this is not
 
+add new line
